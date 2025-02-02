@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Application development in popular integrated development environments. © 2023 by Myrsini Stasinou is licensed under CC BY-SA 4.0
+
+using System;
 using System.Windows.Forms;
 
 namespace Calculator
