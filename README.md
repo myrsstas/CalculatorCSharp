@@ -2,7 +2,9 @@
 
 ## Overview
 
-The Calculator Application is a lightweight and efficient tool designed to perform fundamental mathematical operations. Built using C# and WinForms, it offers an intuitive interface, making it accessible for users of all levels. With essential features such as addition, subtraction, multiplication, and division, it ensures quick and accurate calculations. This Project is part my Thesis at Dept of Computers, Informatics and Telecommunications Engineering of the International Hellenic University, under the supervision of Assistant Professor Tsimpiris Alkiviadis.
+The Calculator Application is a lightweight and efficient tool designed to perform fundamental mathematical operations. Built using C# and WinForms, it offers an intuitive interface, making it accessible for users of all levels. With essential features such as addition, subtraction, multiplication, and division, it ensures quick and accurate calculations. 
+
+This Project is part my Thesis at Dept of Computers, Informatics and Telecommunications Engineering of the International Hellenic University, under the supervision of Assistant Professor Tsimpiris Alkiviadis.
 
 All components and code are intended for educational purposes.
 
