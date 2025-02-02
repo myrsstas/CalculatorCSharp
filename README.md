@@ -26,17 +26,6 @@ C#
 
 Windows Forms (WinForms) for the graphical user interface
 
-## Installation & Usage
-
-Clone this repository:
-
-git clone https://github.com/myrsstas/CalculatorCSharp
-
-Open the project in Visual Studio.
-
-Build and run the application.
-
-Use the calculator to perform arithmetic operations.
 
 ## Future Improvements
 
